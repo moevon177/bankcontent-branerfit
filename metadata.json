@@ -1,0 +1,5 @@
+{
+  "name": "Bank Content",
+  "description": "A secure video storage application powered by Cloudflare R2.",
+  "requestFramePermissions": []
+}
